@@ -1,0 +1,13 @@
+C:\Users\ShabeerM\Desktop\ThreeTierStructure\ThreeTierStructure\DAL\bin\Debug\DAL.dll
+C:\Users\ShabeerM\Desktop\ThreeTierStructure\ThreeTierStructure\DAL\bin\Debug\DAL.pdb
+C:\Users\ShabeerM\Desktop\ThreeTierStructure\ThreeTierStructure\DAL\obj\Debug\DAL.dll
+C:\Users\ShabeerM\Desktop\ThreeTierStructure\ThreeTierStructure\DAL\obj\Debug\DAL.pdb
+C:\Users\JANA ASSASSIN\Desktop\3tire login\Three Tier Part 02\ThreeTierStructure\DAL\bin\Debug\DAL.dll
+C:\Users\JANA ASSASSIN\Desktop\3tire login\Three Tier Part 02\ThreeTierStructure\DAL\bin\Debug\DAL.pdb
+C:\Users\JANA ASSASSIN\Desktop\3tire login\Three Tier Part 02\ThreeTierStructure\DAL\obj\Debug\DAL.dll
+C:\Users\JANA ASSASSIN\Desktop\3tire login\Three Tier Part 02\ThreeTierStructure\DAL\obj\Debug\DAL.pdb
+C:\Users\JANA ASSASSIN\Desktop\ThreeTierStructure\DAL\bin\Debug\DAL.dll
+C:\Users\JANA ASSASSIN\Desktop\ThreeTierStructure\DAL\bin\Debug\DAL.pdb
+C:\Users\JANA ASSASSIN\Desktop\ThreeTierStructure\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\JANA ASSASSIN\Desktop\ThreeTierStructure\DAL\obj\Debug\DAL.dll
+C:\Users\JANA ASSASSIN\Desktop\ThreeTierStructure\DAL\obj\Debug\DAL.pdb

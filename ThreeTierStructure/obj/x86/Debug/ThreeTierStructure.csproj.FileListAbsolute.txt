@@ -1,0 +1,55 @@
+C:\Users\ShabeerM\Desktop\ThreeTierStructure\ThreeTierStructure\ThreeTierStructure\bin\Debug\ThreeTierStructure.exe
+C:\Users\ShabeerM\Desktop\ThreeTierStructure\ThreeTierStructure\ThreeTierStructure\bin\Debug\ThreeTierStructure.pdb
+C:\Users\ShabeerM\Desktop\ThreeTierStructure\ThreeTierStructure\ThreeTierStructure\bin\Debug\BAL.dll
+C:\Users\ShabeerM\Desktop\ThreeTierStructure\ThreeTierStructure\ThreeTierStructure\bin\Debug\BEL.dll
+C:\Users\ShabeerM\Desktop\ThreeTierStructure\ThreeTierStructure\ThreeTierStructure\bin\Debug\DAL.dll
+C:\Users\ShabeerM\Desktop\ThreeTierStructure\ThreeTierStructure\ThreeTierStructure\bin\Debug\BAL.pdb
+C:\Users\ShabeerM\Desktop\ThreeTierStructure\ThreeTierStructure\ThreeTierStructure\bin\Debug\BEL.pdb
+C:\Users\ShabeerM\Desktop\ThreeTierStructure\ThreeTierStructure\ThreeTierStructure\bin\Debug\DAL.pdb
+C:\Users\ShabeerM\Desktop\ThreeTierStructure\ThreeTierStructure\ThreeTierStructure\obj\x86\Debug\ThreeTierStructure.csprojResolveAssemblyReference.cache
+C:\Users\ShabeerM\Desktop\ThreeTierStructure\ThreeTierStructure\ThreeTierStructure\obj\x86\Debug\ThreeTierStructure.Form1.resources
+C:\Users\ShabeerM\Desktop\ThreeTierStructure\ThreeTierStructure\ThreeTierStructure\obj\x86\Debug\ThreeTierStructure.Properties.Resources.resources
+C:\Users\ShabeerM\Desktop\ThreeTierStructure\ThreeTierStructure\ThreeTierStructure\obj\x86\Debug\ThreeTierStructure.csproj.GenerateResource.Cache
+C:\Users\ShabeerM\Desktop\ThreeTierStructure\ThreeTierStructure\ThreeTierStructure\obj\x86\Debug\ThreeTierStructure.exe
+C:\Users\ShabeerM\Desktop\ThreeTierStructure\ThreeTierStructure\ThreeTierStructure\obj\x86\Debug\ThreeTierStructure.pdb
+C:\Users\JANA ASSASSIN\Desktop\3tire login\Three Tier Part 02\ThreeTierStructure\ThreeTierStructure\obj\x86\Debug\ThreeTierStructure.exe
+C:\Users\JANA ASSASSIN\Desktop\3tire login\Three Tier Part 02\ThreeTierStructure\ThreeTierStructure\obj\x86\Debug\ThreeTierStructure.pdb
+C:\Users\JANA ASSASSIN\Desktop\3tire login\Three Tier Part 02\ThreeTierStructure\ThreeTierStructure\bin\Debug\ThreeTierStructure.exe
+C:\Users\JANA ASSASSIN\Desktop\3tire login\Three Tier Part 02\ThreeTierStructure\ThreeTierStructure\bin\Debug\ThreeTierStructure.pdb
+C:\Users\JANA ASSASSIN\Desktop\3tire login\Three Tier Part 02\ThreeTierStructure\ThreeTierStructure\bin\Debug\BAL.dll
+C:\Users\JANA ASSASSIN\Desktop\3tire login\Three Tier Part 02\ThreeTierStructure\ThreeTierStructure\bin\Debug\BEL.dll
+C:\Users\JANA ASSASSIN\Desktop\3tire login\Three Tier Part 02\ThreeTierStructure\ThreeTierStructure\bin\Debug\DAL.dll
+C:\Users\JANA ASSASSIN\Desktop\3tire login\Three Tier Part 02\ThreeTierStructure\ThreeTierStructure\bin\Debug\BAL.pdb
+C:\Users\JANA ASSASSIN\Desktop\3tire login\Three Tier Part 02\ThreeTierStructure\ThreeTierStructure\bin\Debug\BEL.pdb
+C:\Users\JANA ASSASSIN\Desktop\3tire login\Three Tier Part 02\ThreeTierStructure\ThreeTierStructure\bin\Debug\DAL.pdb
+C:\Users\JANA ASSASSIN\Desktop\3tire login\Three Tier Part 02\ThreeTierStructure\ThreeTierStructure\obj\x86\Debug\ThreeTierStructure.csprojResolveAssemblyReference.cache
+C:\Users\JANA ASSASSIN\Desktop\3tire login\Three Tier Part 02\ThreeTierStructure\ThreeTierStructure\obj\x86\Debug\ThreeTierStructure.Form1.resources
+C:\Users\JANA ASSASSIN\Desktop\3tire login\Three Tier Part 02\ThreeTierStructure\ThreeTierStructure\obj\x86\Debug\ThreeTierStructure.Properties.Resources.resources
+C:\Users\JANA ASSASSIN\Desktop\3tire login\Three Tier Part 02\ThreeTierStructure\ThreeTierStructure\obj\x86\Debug\ThreeTierStructure.csproj.GenerateResource.Cache
+C:\Users\JANA ASSASSIN\Desktop\3tire login\Three Tier Part 02\ThreeTierStructure\ThreeTierStructure\obj\x86\Debug\ThreeTierStructure.Login.resources
+C:\Users\JANA ASSASSIN\Desktop\3tire login\Three Tier Part 02\ThreeTierStructure\ThreeTierStructure\obj\x86\Debug\ThreeTierStructure.mainForm.resources
+C:\Users\JANA ASSASSIN\Desktop\3tire login\Three Tier Part 02\ThreeTierStructure\ThreeTierStructure\bin\Debug\NAudio.dll
+C:\Users\JANA ASSASSIN\Desktop\3tire login\Three Tier Part 02\ThreeTierStructure\ThreeTierStructure\obj\x86\Debug\ThreeTierStructure.Audio.resources
+C:\Users\JANA ASSASSIN\Desktop\ThreeTierStructure\ThreeTierStructure\obj\x86\Debug\ThreeTierStructure.exe
+C:\Users\JANA ASSASSIN\Desktop\ThreeTierStructure\ThreeTierStructure\obj\x86\Debug\ThreeTierStructure.pdb
+C:\Users\JANA ASSASSIN\Desktop\ThreeTierStructure\ThreeTierStructure\obj\x86\Debug\ThreeTierStructure.csprojResolveAssemblyReference.cache
+C:\Users\JANA ASSASSIN\Desktop\ThreeTierStructure\ThreeTierStructure\obj\x86\Debug\ThreeTierStructure.Form1.resources
+C:\Users\JANA ASSASSIN\Desktop\ThreeTierStructure\ThreeTierStructure\obj\x86\Debug\ThreeTierStructure.Login.resources
+C:\Users\JANA ASSASSIN\Desktop\ThreeTierStructure\ThreeTierStructure\obj\x86\Debug\ThreeTierStructure.Properties.Resources.resources
+C:\Users\JANA ASSASSIN\Desktop\ThreeTierStructure\ThreeTierStructure\obj\x86\Debug\ThreeTierStructure.csproj.GenerateResource.Cache
+C:\Users\JANA ASSASSIN\Desktop\ThreeTierStructure\ThreeTierStructure\bin\Debug\ThreeTierStructure.exe
+C:\Users\JANA ASSASSIN\Desktop\ThreeTierStructure\ThreeTierStructure\bin\Debug\ThreeTierStructure.pdb
+C:\Users\JANA ASSASSIN\Desktop\ThreeTierStructure\ThreeTierStructure\bin\Debug\BAL.dll
+C:\Users\JANA ASSASSIN\Desktop\ThreeTierStructure\ThreeTierStructure\bin\Debug\BEL.dll
+C:\Users\JANA ASSASSIN\Desktop\ThreeTierStructure\ThreeTierStructure\bin\Debug\DAL.dll
+C:\Users\JANA ASSASSIN\Desktop\ThreeTierStructure\ThreeTierStructure\bin\Debug\BAL.pdb
+C:\Users\JANA ASSASSIN\Desktop\ThreeTierStructure\ThreeTierStructure\bin\Debug\BEL.pdb
+C:\Users\JANA ASSASSIN\Desktop\ThreeTierStructure\ThreeTierStructure\bin\Debug\DAL.pdb
+C:\Users\JANA ASSASSIN\Desktop\ThreeTierStructure\ThreeTierStructure\bin\Debug\NAudio.dll
+C:\Users\JANA ASSASSIN\Desktop\ThreeTierStructure\ThreeTierStructure\obj\x86\Debug\ThreeTierStructure.MDIParent1.resources
+C:\Users\JANA ASSASSIN\Desktop\ThreeTierStructure\ThreeTierStructure\obj\x86\Debug\ThreeTierStructure.Form2.resources
+C:\Users\JANA ASSASSIN\Desktop\ThreeTierStructure\ThreeTierStructure\bin\Debug\ThreeTierStructure.exe.config
+C:\Users\JANA ASSASSIN\Desktop\ThreeTierStructure\ThreeTierStructure\obj\x86\Debug\ThreeTierStructure.Form3.resources
+C:\Users\JANA ASSASSIN\Desktop\ThreeTierStructure\ThreeTierStructure\obj\x86\Debug\ThreeTierStructure.Form4.resources
+C:\Users\JANA ASSASSIN\Desktop\ThreeTierStructure\ThreeTierStructure\obj\x86\Debug\ThreeTierStructure.Form5.resources
+C:\Users\JANA ASSASSIN\Desktop\ThreeTierStructure\ThreeTierStructure\obj\x86\Debug\ThreeTierStructure.Form6.resources

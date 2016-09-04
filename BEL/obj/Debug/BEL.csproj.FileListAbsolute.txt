@@ -1,0 +1,13 @@
+C:\Users\ShabeerM\Desktop\ThreeTierStructure\ThreeTierStructure\BEL\bin\Debug\BEL.dll
+C:\Users\ShabeerM\Desktop\ThreeTierStructure\ThreeTierStructure\BEL\bin\Debug\BEL.pdb
+C:\Users\ShabeerM\Desktop\ThreeTierStructure\ThreeTierStructure\BEL\obj\Debug\BEL.dll
+C:\Users\ShabeerM\Desktop\ThreeTierStructure\ThreeTierStructure\BEL\obj\Debug\BEL.pdb
+C:\Users\JANA ASSASSIN\Desktop\3tire login\Three Tier Part 02\ThreeTierStructure\BEL\bin\Debug\BEL.dll
+C:\Users\JANA ASSASSIN\Desktop\3tire login\Three Tier Part 02\ThreeTierStructure\BEL\bin\Debug\BEL.pdb
+C:\Users\JANA ASSASSIN\Desktop\3tire login\Three Tier Part 02\ThreeTierStructure\BEL\obj\Debug\BEL.dll
+C:\Users\JANA ASSASSIN\Desktop\3tire login\Three Tier Part 02\ThreeTierStructure\BEL\obj\Debug\BEL.pdb
+C:\Users\JANA ASSASSIN\Desktop\ThreeTierStructure\BEL\bin\Debug\BEL.dll
+C:\Users\JANA ASSASSIN\Desktop\ThreeTierStructure\BEL\bin\Debug\BEL.pdb
+C:\Users\JANA ASSASSIN\Desktop\ThreeTierStructure\BEL\obj\Debug\BEL.csprojResolveAssemblyReference.cache
+C:\Users\JANA ASSASSIN\Desktop\ThreeTierStructure\BEL\obj\Debug\BEL.dll
+C:\Users\JANA ASSASSIN\Desktop\ThreeTierStructure\BEL\obj\Debug\BEL.pdb

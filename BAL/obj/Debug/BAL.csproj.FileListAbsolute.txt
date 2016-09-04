@@ -1,0 +1,27 @@
+C:\Users\ShabeerM\Desktop\ThreeTierStructure\ThreeTierStructure\BAL\bin\Debug\BAL.dll
+C:\Users\ShabeerM\Desktop\ThreeTierStructure\ThreeTierStructure\BAL\bin\Debug\BAL.pdb
+C:\Users\ShabeerM\Desktop\ThreeTierStructure\ThreeTierStructure\BAL\bin\Debug\BEL.dll
+C:\Users\ShabeerM\Desktop\ThreeTierStructure\ThreeTierStructure\BAL\bin\Debug\DAL.dll
+C:\Users\ShabeerM\Desktop\ThreeTierStructure\ThreeTierStructure\BAL\bin\Debug\BEL.pdb
+C:\Users\ShabeerM\Desktop\ThreeTierStructure\ThreeTierStructure\BAL\bin\Debug\DAL.pdb
+C:\Users\ShabeerM\Desktop\ThreeTierStructure\ThreeTierStructure\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+C:\Users\ShabeerM\Desktop\ThreeTierStructure\ThreeTierStructure\BAL\obj\Debug\BAL.dll
+C:\Users\ShabeerM\Desktop\ThreeTierStructure\ThreeTierStructure\BAL\obj\Debug\BAL.pdb
+C:\Users\JANA ASSASSIN\Desktop\3tire login\Three Tier Part 02\ThreeTierStructure\BAL\bin\Debug\BAL.dll
+C:\Users\JANA ASSASSIN\Desktop\3tire login\Three Tier Part 02\ThreeTierStructure\BAL\bin\Debug\BAL.pdb
+C:\Users\JANA ASSASSIN\Desktop\3tire login\Three Tier Part 02\ThreeTierStructure\BAL\bin\Debug\BEL.dll
+C:\Users\JANA ASSASSIN\Desktop\3tire login\Three Tier Part 02\ThreeTierStructure\BAL\bin\Debug\DAL.dll
+C:\Users\JANA ASSASSIN\Desktop\3tire login\Three Tier Part 02\ThreeTierStructure\BAL\bin\Debug\BEL.pdb
+C:\Users\JANA ASSASSIN\Desktop\3tire login\Three Tier Part 02\ThreeTierStructure\BAL\bin\Debug\DAL.pdb
+C:\Users\JANA ASSASSIN\Desktop\3tire login\Three Tier Part 02\ThreeTierStructure\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+C:\Users\JANA ASSASSIN\Desktop\3tire login\Three Tier Part 02\ThreeTierStructure\BAL\obj\Debug\BAL.dll
+C:\Users\JANA ASSASSIN\Desktop\3tire login\Three Tier Part 02\ThreeTierStructure\BAL\obj\Debug\BAL.pdb
+C:\Users\JANA ASSASSIN\Desktop\ThreeTierStructure\BAL\bin\Debug\BAL.dll
+C:\Users\JANA ASSASSIN\Desktop\ThreeTierStructure\BAL\bin\Debug\BAL.pdb
+C:\Users\JANA ASSASSIN\Desktop\ThreeTierStructure\BAL\bin\Debug\BEL.dll
+C:\Users\JANA ASSASSIN\Desktop\ThreeTierStructure\BAL\bin\Debug\DAL.dll
+C:\Users\JANA ASSASSIN\Desktop\ThreeTierStructure\BAL\bin\Debug\BEL.pdb
+C:\Users\JANA ASSASSIN\Desktop\ThreeTierStructure\BAL\bin\Debug\DAL.pdb
+C:\Users\JANA ASSASSIN\Desktop\ThreeTierStructure\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+C:\Users\JANA ASSASSIN\Desktop\ThreeTierStructure\BAL\obj\Debug\BAL.dll
+C:\Users\JANA ASSASSIN\Desktop\ThreeTierStructure\BAL\obj\Debug\BAL.pdb
